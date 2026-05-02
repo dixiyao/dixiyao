@@ -1,5 +1,3 @@
-### Hi there 🤔
+[![GitHub Streak](https://streak-stats.demolab.com?user=dixiyao&theme=solarized-light)](https://git.io/streak-stats)
 
-[![Dixi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dixiyao&rank_icon=github&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dixiyao&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dixiyao&theme=gruvbox&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
